@@ -1,0 +1,14 @@
+body 
+{
+  background-color:#000000;
+} 
+
+canvas 
+{
+  border:5px inset #000000;
+} 
+
+#canvas-holder
+{
+  text-align:center;
+}
